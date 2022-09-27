@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(238, 226, 4);
+}
+
+#cabecera{
+    background-color: rgb(233, 24, 0);
+
+}
+
+#principal{
+    background-color: dodgerblue;
+    padding: 8px;
+   
+}
+
+#articulo{
+    background-color: coral;
+    margin: 8px;
+    padding: 1.5em;
+
+}
+
+#pie{
+    background-color: goldenrod;
+    color: black;
+    border-style: solid;
+    border-width: medium;
+    border-color: goldenrod;
+    text-align: center;
+}
